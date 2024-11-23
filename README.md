@@ -1,5 +1,5 @@
 # LP3-TAREA-SEM6
-Tarea desarrollada en la semana 6 comprendida, desarrollo web 
+Tarea desarrollada en la semana 6, desarrollo web 
 ## Screenshots de prueba
 Pantalla de Login
 ------------------------------------------------------------------------------------
